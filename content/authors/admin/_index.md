@@ -68,8 +68,14 @@ email: ""
 # - Visitors
 ---
 
-Yusuke Kondo is an undergraduate student of
+Hi!  
+Thank you for visiting my website.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an undergraduate student of [Department of Information and Communication](https://www.ee.t.u-tokyo.ac.jp/j/), 
+[Faculty of Engineering](https://www.t.u-tokyo.ac.jp/foe/index.html), The University of Tokyo (Tokyo University).  
+I belongs to [Aizawa Yamasaki Matsui Laboratory](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml), which mainly studies multimedia processing.  
+Now I am doing graduation researching under associate professor [Toshihiko Yamasaki](https://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I enjoy weight training as the vice captain of [B&W (Bodybuilding and Weightlifting club, Athletic Foundation of The University of Tokyo)](http://www.undou-kai.com/). 
+
+Anime is my reason of life.
