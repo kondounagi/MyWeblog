@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   * Natural language processing (Morphological analysis, TF-IDF)
   * Gradient boost (XGBoost, LightGBM, Catboost)
   * Ensemble model (scikit-learn)
-  * Automatic hyperparameter optimizeation (optuna)
+  * Automatic hyperparameter optimizeation (optuna)  
 
   Thank you for inviting me to your office to Google, Twitter, [Salesforce](https://www.salesforce.com/) and [Pony.ai](https://pony.ai/en/index.html)!
   """
@@ -87,6 +87,18 @@ date_format = "Jan 2006"
   * Erlang
   * High performance computing (HPC)
   * UI/UX design
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "UTEC (The University of Tokyo Edge Capital Co.,Ltd.)"
+  company_url = "https://www.ut-ec.co.jp/english/"
+  location = "Tokyo"
+  date_start = "2018-10-01"
+  date_end = "2019-02-01"
+  description = """
+  Analyzed the data of startups and researchers to find latent promising investments.  
+  Proposed a new investment destination by myself.
   """
 
 [[experience]]
