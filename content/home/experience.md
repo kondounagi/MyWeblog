@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-12-01"
   date_end = ""
   description = """
-  Please check our company web site!
+  Please check our corporate web site !
 
   _Underlying Technologies_
   * Web front end (Vue.js)
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   * Ensemble model (scikit-learn)
   * Automatic hyperparameter optimizeation (optuna)  
 
-  Thank you for inviting me to your office to Google, Twitter, [Salesforce](https://www.salesforce.com/) and [Pony.ai](https://pony.ai/en/index.html)!
+  Thank you for inviting me to your office to Google, Twitter, [Salesforce](https://www.salesforce.com/) and [Pony.ai](https://pony.ai/en/index.html) !
   """
 
 [[experience]]

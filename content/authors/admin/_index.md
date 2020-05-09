@@ -72,7 +72,7 @@ email: ""
 # - Visitors
 ---
 
-Hi!  
+Hi !  
 Thank you for visiting my website.
 
 I am an undergraduate student of [Department of Information and Communication](https://www.ee.t.u-tokyo.ac.jp/j/), 
