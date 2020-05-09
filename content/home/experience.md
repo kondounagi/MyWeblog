@@ -18,27 +18,92 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Chief Technological Officer, Director"
+  company = "DeepEyeVision inc."
+  company_url = "https://deepeyevision.com/"
+  location = "Tokyo and Tochigi"
+  date_start = "2019-12-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Please check our company web site!
+
+  _Underlying Technologies_
+  * Web front end (Vue.js)
+  * Web backend (Laravel, Django)
+  * Image Processing
+  * Deep Learning (PyTorch)
+  * Public cloud (AWS)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Machine Learning Engineer (Summer Internship)"
+  company = "Interlink inc."
+  company_url = "https://www.interlink.or.jp/"
+  location = "San Jose, California"
+  date_start = "2019-08-01"
+  date_end = "2019-09-01"
+  description = """
+  Analyzed movie data (not only metadata but also reviews) to predict next Japanese Academy Award.
+  [press release of our work](https://prtimes.jp/main/html/rd/p/000000436.000006942.html)
+
+  _Underlying Technologies_
+  * Web scraping
+  * Natural language processing (Morphological analysis, TF-IDF)
+  * Gradient boost (XGBoost, LightGBM, Catboost)
+  * Ensemble model (scikit-learn)
+  * Automatic hyperparameter optimizeation (optuna)
+
+  Thank you for inviting me to your office to Google, Twitter, [Salesforce](https://www.salesforce.com/) and [Pony.ai](https://pony.ai/en/index.html)!
+  """
+
+[[experience]]
+  title = "Software Engineer"
+  company = "AlgoAge inc."
+  company_url = "https://www.algoage.net/"
+  location = "Tokyo"
+  date_start = "2019-04-01"
+  date_end = "2019-09-01"
+  description = """
+  Developed a entertainment chat bot service for web, iOS and Android.
+
+  _Underlying Technologies_
+  * SQL (MySQL)
+  * Web front end (Vue.js)
+  * Web back end (Flask)
+  * Public cloud (GCP, Firebase)
+  """
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Murakumo inc."
+  company_url = "https://www.murakumo-tech.jp/"
+  location = "Tokyo"
+  date_start = "2019-02-01"
+  date_end = "2019-06-01"
+  description = """
+  Developed a linux software for versatile cluster computing.
+
+  _Underlying Technologies_
+  * Erlang
+  * High performance computing (HPC)
+  * UI/UX design
+  """
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Vuzz inc."
+  company_url = "https://www.vuzz.com/"
+  location = "Tokyo"
+  date_start = "2018-02-01"
+  date_end = "2019-02-01"
+  description = """
+  Analyzed how much user behavior has changed through a campaign in SNS to quantify its cost-effectiveness.
+
+  _Underlying Technologies_
+  * Web back end (Django)
+  * NoSQL (MongoDB)
+  * Network analysis (NetworkX)
+  * Machine Learning (Keras)
+  """
 
 +++
