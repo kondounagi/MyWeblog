@@ -52,6 +52,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/kondounagi
+- icon: amazon
+  icon_pack: fab
+  link: https://www.amazon.jp/hz/wishlist/ls/2A5G7YHNMEYAI?ref_=wl_share
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
