@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: BEng (Information Technology)
+  - course: BEng of Information Technology
     institution: The University of Tokyo
     year: 2021 (expected)
 
