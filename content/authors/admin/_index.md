@@ -77,11 +77,11 @@ Thank you for visiting my website.
 
 I am an undergraduate student of [Department of Information and Communication](https://www.ee.t.u-tokyo.ac.jp/j/), 
 [Faculty of Engineering](https://www.t.u-tokyo.ac.jp/foe/index.html), The University of Tokyo (Tokyo University).  
-I belongs to [Aizawa Yamasaki Matsui Laboratory](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml), which mainly studies multimedia processing.  
+I belong to [Aizawa Yamasaki Matsui Laboratory](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml), which mainly studies multimedia processing.  
 Now I am doing graduation researching under associate professor [Toshihiko Yamasaki](https://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html).
 
 I am intrested in societal implementation of technology, so I am working as CTO in [DeepEyeVision](https://deepeyevision.com).
 
 I enjoy weight training as the vice captain of [B&W (Bodybuilding and Weightlifting club, Athletic Foundation of The University of Tokyo)](http://www.undou-kai.com/).
 
-Anime is my reason of life.
+Anime is the reason of my life.
